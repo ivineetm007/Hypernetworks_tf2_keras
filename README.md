@@ -11,5 +11,5 @@ Different models are trained from scratch for CIFAR-10 which include one VGG-Blo
 # Useful resources and other repositories.
 
 * Otoro Blog [http://blog.otoro.net/2016/09/28/hyper-networks/](http://blog.otoro.net/2016/09/28/hyper-networks/)
-* Pytorch code for HyperCNN[https://github.com/g1910/HyperNetworks](https://github.com/g1910/HyperNetworks)
+* Pytorch code for HyperCNN [https://github.com/g1910/HyperNetworks](https://github.com/g1910/HyperNetworks)
 * TensorFlow implementation [https://github.com/hardmaru/supercell/blob/master/supercell.py](https://github.com/hardmaru/supercell/blob/master/supercell.py)
